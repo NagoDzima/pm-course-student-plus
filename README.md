@@ -1,7 +1,9 @@
 < Студент+ >  
 Склад команди:  
-  UI\UX Designer - Дужій Дмитро Русланович  
-  Analyts - Кузнєцов Максим Олександрович  
-  Front-End Dev - Чен Ярослав Ігорович  
+| Роль | ПІБ | GitHub |
+| :--- | :---: | ---: |
+| UI\UX Designer | Дужій Дмитро Русланович | NagoDzima |
+| Analyts | Кузнєцов Максим Олександрович | merkury157 |
+| Front-End Dev | Чен Ярослав Ігорович | nevis00 |
   
 [Brief](project-brief.md)
