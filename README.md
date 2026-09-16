@@ -1,6 +1,6 @@
-< Студент+ >  
-Склад команди:  
-| Роль | ПІБ | GitHub |
+< Student+ >  
+Team:  
+| ROLE | FULL NAME | GitHub |
 | :--- | :---: | ---: |
 | UI\UX Designer | Дужій Дмитро Русланович | NagoDzima |
 | Analyts | Кузнєцов Максим Олександрович | merkury157 |
