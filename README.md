@@ -7,3 +7,4 @@
 | Front-End Dev | Чен Ярослав Ігорович | nevis00 |
   
 [Brief](project-brief.md)
+[Classification](project-classification.md)
