@@ -28,7 +28,7 @@
 | Дмитро Русланович Дужій | kn24-d.duzhii@nubip.edu.ua | Project Lead / Administrator / Scrum Master / Developer |
 | Максим Олександрович Кузнєцов | @Максим Олександрович Кузнєцов | Administrator / Developer |
 | Ярослав Чен | @Ярослав Чен | Member / Developer |
-| Andrii Hlazunov | @Andrii Hlazunov | Викладач (Ментор дисципліни «Управління IT-проєктами») |
+| Andrii Hlazunov | a-hlazunov@nubip.edu.ua | Викладач (Ментор дисципліни «Управління IT-проєктами») |
   
 ## Рефлексія
 1. **Які труднощі виникли при оцінці Story Points?**
