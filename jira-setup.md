@@ -3,7 +3,7 @@
 ## Project Info
 * **Project Name:** Student+
 * **Project Key:** SCRUM
-* **Jira URL:** https://student-plus.atlassian.net/jira/software/projects/SCRUM/boards/1
+* **Jira URL:** https://pizza-iz-karmana-games.atlassian.net/jira/software/projects/SCRUM/boards/1
   
 ## Epics
 | Epic | Опис | К-ть Stories |
@@ -25,10 +25,10 @@
 ## Team
 | Ім'я | Jira Username | Роль у проекті |
 |------|---------------|----------------|
-| Дмитро Русланович Дужій | kn24-d.duzhii@nubip.edu.ua | Project Lead / Administrator / Scrum Master / Developer |
-| Максим Олександрович Кузнєцов | @Максим Олександрович Кузнєцов | Administrator / Developer |
-| Ярослав Чен | @Ярослав Чен | Member / Developer |
-| Andrii Hlazunov | a-hlazunov@nubip.edu.ua | Викладач (Ментор дисципліни «Управління IT-проєктами») |
+| Дмитро Русланович Дужій | kn24-d.duzhii@nubip.edu.ua | Administrator / Scrum Master / Developer |
+| Максим Олександрович Кузнєцов | kn24-m.kuznietsov@nubip.edu.ua | Project Lead / Administrator / Developer |
+| Ярослав Чен | kn24-ya.chen@nubip.edu.ua | Administrator / Developer |
+| Andrii Hlazunov | a-hlazunov@nubip.edu.ua | Викладач |
   
 ## Рефлексія
 1. **Які труднощі виникли при оцінці Story Points?**
